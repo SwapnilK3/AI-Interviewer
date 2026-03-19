@@ -41,3 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 interviewer-62798-firebase-adminsdk-fbsvc-320d782e05.json
+
+.vscode/
+.next/
